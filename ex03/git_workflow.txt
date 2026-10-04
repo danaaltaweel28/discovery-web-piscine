@@ -1,0 +1,4 @@
+Edit: Create or modify README.md.
+Add: Stage changes using git add.
+Commit: Save changes using git commit.
+Push: Upload commits to GitHub using git push.
