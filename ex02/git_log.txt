@@ -1,0 +1,17 @@
+commit 36e6ef66ce543c2b01dd7c06539c7f708b61327e
+Author: danaaltaweel28 <danaaltaweel28@gmail.com>
+Date:   Sun Oct 4 03:38:24 2026 +0300
+
+    Update git log
+
+commit 1a38dc12e31537df2df49a12e1b65ec01bad7551
+Author: danaaltaweel28 <danaaltaweel28@gmail.com>
+Date:   Sun Oct 4 03:09:01 2026 +0300
+
+    Add ex02 files
+
+commit 4f39d166a6e8611f2749a2428fc375d497568507
+Author: danaaltaweel28 <danaaltaweel28@gmail.com>
+Date:   Sat Oct 3 22:46:30 2026 +0300
+
+    Add hello.txt
